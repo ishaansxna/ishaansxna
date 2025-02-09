@@ -28,7 +28,7 @@ I am currently pursuing a **BTech in Artificial Intelligence and Machine Learnin
 - Web-based AI applications  
 
 ### 📫 How to Reach Me  
-- **LinkedIn:** (https://www.linkedin.com/in/ishaan-saxena-21942b277/)  
+- **LinkedIn:** (linkedin.com/in/ishaan-saxena-21942b277)  
 - **GitHub:** [@ishaansxna](https://github.com/ishaansxna)  
 
 ### ⚡ Fun Fact  
