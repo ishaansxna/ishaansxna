@@ -9,7 +9,7 @@ I am currently pursuing a **BTech in Artificial Intelligence and Machine Learnin
 - 🎨 **UI/UX Design** – Designing intuitive user experiences using tools like Canva and Figma.   
 
 ### 💻 Technical Skills  
-- **Programming Languages:** Python, C, C++, Java  
+- **Programming Languages:** Python, C, Java  
 - **Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
 - **AI/ML:** Machine Learning models, Neural Networks, Data Science  
 - **UI/UX Design Tools:** Canva, Figma  
