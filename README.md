@@ -35,7 +35,7 @@ I can spend hours debugging a piece of code but might completely forget what I h
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-saxena-21942b277) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ishaansxna) 
+[![Unstop]([https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white](https://play.google.com/store/apps/details?id=com.dare2compete.app&hl=en_IN))[(https:/](https://unstop.com/u/ishaasax9414) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaansaxena2022@gmail.com)  
 
 
